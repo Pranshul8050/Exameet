@@ -1,4 +1,4 @@
-git branch
+
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
 import { JobListings } from "@/components/job-listings"
